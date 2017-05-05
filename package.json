@@ -1,0 +1,14 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "server/index.js",
+  "author": "w3cj <cj@null.computer>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js & lite-server & wait"
+  },
+  "dependencies": {
+    "json-server": "^0.10.0"
+  }
+}
