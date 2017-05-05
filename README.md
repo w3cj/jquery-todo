@@ -25,7 +25,7 @@ The _only_ files you need to modify are in the client folder. No need to touch t
 
 * [ ] Add style.css and app.js
 * [ ] Add jQuery
-* [ ] Create todo form - text, priority, done:false, date created
+* [ ] Create todo form - text, priority, date created
 * [ ] POST new todo when create button is clicked
 * [ ] GET all todos, add them to page
 * [ ] Sort todos by text, priority and date created
